@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  security-monitor:
+    build: .
+    container_name: security-monitor
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./uploads:/app/uploads
+      - ./exports:/app/exports
+    restart: unless-stopped
