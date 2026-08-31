@@ -15,7 +15,7 @@ Dashboard untuk monitoring keamanan dari file access.log
 ### 1. Install Python
 Download dan install Python dari https://python.org
 
-### 2. Clone atau Download
+### 2. Clone
 ```bash
 git clone https://github.com/ilyas7/security-monitor.git
 cd security-monitor
