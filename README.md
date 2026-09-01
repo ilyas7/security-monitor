@@ -19,7 +19,9 @@ Download dan install Python dari https://python.org
 ```bash
 git clone https://github.com/ilyas7/security-monitor.git
 cd security-monitor
+```
 
 ### 3. Usage
-</>bash
+```bash
 streamlit run src/security_monitor.py
+```
