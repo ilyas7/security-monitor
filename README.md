@@ -16,7 +16,9 @@ Dashboard untuk monitoring keamanan dari file access.log
 Download dan install Python dari https://python.org
 
 ### 2. Install Requirments
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Clone
 ```bash
